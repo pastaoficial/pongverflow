@@ -2,7 +2,7 @@
 
 pongverflow is the client server version of the classic pong game.
 
-the project is based on [!CPONGC](https://github.com/xavieran/CPONG) and use it sockets and pthread to supports connections.
+the project is based on [!CPONGC](https://github.com/xavieran/CPONG) and uses sockets and pthread to supports connections.
 
 this game was built for the ekoparty security conference as a secinfo challege, so don't get surprised if you found bugs
 
