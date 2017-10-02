@@ -1,0 +1,10 @@
+Simple pong clone written in C and NCurses
+
+Execute the command make, then play the game with ./pong
+
+UP and DOWN arrows to control the Green paddle...
+
+-- Acknowledgments --
+blankthemuffin for his timer code.
+my parents for their continued support.
+My dog?
